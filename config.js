@@ -19,8 +19,8 @@ global.web = 'hp' //ubah jadi website lu, bisa link ig, link github, link yt, kl
 global.price1 = 'Permanen = 5K 2Grup\n7K Permanen 4Grup\9k Permanen Bebas Grup'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://database.tioclkp02.repl.co/TextPro.me_162df9a5371cb2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/d7fd50f008f66f7760ff6.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/d7fd50f008f66f7760ff6.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© NAKANO MIKU'
