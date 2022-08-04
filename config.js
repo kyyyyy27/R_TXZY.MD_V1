@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6283830815715'] 
 global.mods = ['6283830815715'] 
-global.prems = [''] 
+global.prems = ['6283830815715'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'OWNER MIKU BOT'
@@ -77,7 +77,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
+  'https://zekais-api.herokuapp.com': 'gmfsjhyb',
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
