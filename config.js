@@ -14,7 +14,7 @@ global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'MIKU BOT'
-global.gc = 'https://chat.whatsapp.com/IMjOBNwprvzAvLMss3D7iU'
+global.gc = 'https://chat.whatsapp.com/ICSjyz4gOKQ21lJfPorf5Z'
 global.web = 'hp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen = 5K 2Grup\n7K Permanen 4Grup\9k Permanen Bebas Grup'
 
